@@ -4,11 +4,11 @@ const listContainer = document.getElementById("list_container"); // get element 
 // Function for Add task in to-do-list
 function addTask() {
     if (inputBox.value === '') {
-        alert("Please write some task");
+        alert("Please write some task"); 
     } else {
         let li = document.createElement("li");
         li.innerHTML = inputBox.value;
-        listContainer.appendChild(li);
+        listContainer.appendChild(li); 
         let span = document.createElement("span");
         span.innerHTML = "\u00d7";
         li.appendChild(span);
