@@ -1,4 +1,5 @@
-📌 JavaScript To-Do List
+📌 JavaScript To-Do List:-
+
 A simple To-Do List application built using JavaScript, HTML, and CSS. This project allows users to add and remove tasks dynamically using the DOM.
 
 🚀 Features
